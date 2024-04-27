@@ -1,0 +1,8 @@
+{
+  "lambdaStack": {
+    "ExportsOutputFnGetAttBusinessFncLambda6F9CD883ArnAB78A20E": "arn:aws:lambda:ap-south-1:868844153156:function:lambdaStack-BusinessFncLambda6F9CD883-81lQM1tNNeRr"
+  },
+  "ApiStack": {
+    "ErrorProneApiEndpoint3AEC9D5C": "https://gims2cfe38.execute-api.ap-south-1.amazonaws.com/prod/"
+  }
+}
